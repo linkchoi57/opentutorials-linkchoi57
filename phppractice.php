@@ -13,7 +13,6 @@
         </script>
         <?php
         echo 'linkchoi57 linkchoi57';
-		?>
-		
+		?>		
         </body>
 </html>
