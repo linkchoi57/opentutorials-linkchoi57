@@ -12,7 +12,7 @@
                 document.write('Current time is '+curr_hour+":"+curr_min+":"+curr_sec+" (by javascript)");
         </script>
         <?php
-        echo 'linkchoi57 linkchoi57';
+        echo 'linkchoi57 withou add';
 		?>		
         </body>
 </html>
